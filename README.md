@@ -9,3 +9,6 @@
 
 [How to create a Telegram bot, and send messages with Python](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e)
 
+
+This Python script requires you to host a server.
+I am using [PythonAnywhere](https://www.pythonanywhere.com/) to do this
