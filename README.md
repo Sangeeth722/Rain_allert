@@ -3,7 +3,7 @@
 
 <h2>Requirements</h2>
 
-[Open Weather Map](https://home.openweathermap.org/users/sign_up) 
+[Open Weather Map](https://home.openweathermap.org/users/sign_up)   can provide you with a 12-hour weather forecast
 
 [Twilio](https://www.twilio.com/try-twilio)
 
