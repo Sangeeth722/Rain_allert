@@ -15,28 +15,3 @@ class Telegram:
 
 
 
-###### I wiil update sooon ####
-# class Welcome(Telegram):
-#     def __init__(self):
-#         super().__init__()
-#         pass
-#
-#
-#
-#     def welcome_message(self):
-#         url = f"https://api.telegram.org/bot{self.bot_token}/getUpdates"
-#         response = requests.get(url)
-#         response.raise_for_status()
-#
-#         self.bot_chatId = str(response.json()["result"][-1]["message"]["chat"]["id"])
-#         self.telegram_snd_txt("welcome")
-#
-#         reply = response.json()["result"][-1]["message"]["text"]
-#
-#         return reply
-#
-#
-#
-#
-#
-#
