@@ -7,3 +7,5 @@
 
 [Twilio](https://www.twilio.com/try-twilio)
 
+[How to create a Telegram bot, and send messages with Python](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e)
+
