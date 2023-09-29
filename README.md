@@ -3,5 +3,5 @@
 
 <h2>Requirements</h2>
 
-[Open Weather Mapp](https://home.openweathermap.org/users/sign_up)
+[Open Weather Map](https://home.openweathermap.org/users/sign_up)
 
