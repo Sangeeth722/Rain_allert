@@ -6,7 +6,7 @@
 
 [Open Weather Map](https://home.openweathermap.org/users/sign_up)   can provide you with a 12-hour weather forecast
 
-[Twilio](https://www.twilio.com/try-twilio)
+[Twilio](https://www.twilio.com/try-twilio) Twilio makes it easy to send and receive text messages from anywhere in the world.
 
 [How to create a Telegram bot, and send messages with Python](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e)
 
