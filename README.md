@@ -3,5 +3,7 @@
 
 <h2>Requirements</h2>
 
-[Open Weather Map Free a/c](https://home.openweathermap.org/users/sign_up)
+[Open Weather Map](https://home.openweathermap.org/users/sign_up) 
+
+[Twilio](https://www.twilio.com/try-twilio)
 
