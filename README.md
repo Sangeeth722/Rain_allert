@@ -3,5 +3,4 @@
 
 <h2>Requirements</h2>
 
-<a href="https://home.openweathermap.org/users/sign_up" target="_blank"
-Create a free a/c on Open Weather Map </a>
+<a href="https://home.openweathermap.org/users/sign_up" Create a free a/c on Open Weather Map </a>
